@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:mega",
+    "configuration": "cpu=atmega2560",
+    "sketch": "Perception.ino",
+    "programmer": "AVRISP mkII",
+    "output": "../build",
+    "port": "COM7"
+}

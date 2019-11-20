@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "Y:\\Software\\Arduino\\libraries",
+  "customBuildProperties": "build.path=c:\\Users\\WeedPot\\Desktop\\Robotics 2019\\C_Workspace\\build,build.warn_data_percentage=75,runtime.tools.avr-gcc.path=Y:\\Software\\Arduino\\hardware\\tools\\avr,runtime.tools.avr-gcc-7.3.0-atmel3.6.1-arduino5.path=Y:\\Software\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=Y:\\Software\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA-1.3.0.path=Y:\\Software\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude.path=Y:\\Software\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude-6.3.0-arduino17.path=Y:\\Software\\Arduino\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:mega:cpu=atmega2560",
+  "hardwareFolders": "Y:\\Software\\Arduino\\hardware,C:\\Users\\WeedPot\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\WeedPot\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10810",
+  "sketchLocation": "c:\\Users\\WeedPot\\Desktop\\Robotics 2019\\C_Workspace\\Perception\\Perception.ino",
+  "toolsFolders": "Y:\\Software\\Arduino\\tools-builder,Y:\\Software\\Arduino\\hardware\\tools\\avr,C:\\Users\\WeedPot\\AppData\\Local\\Arduino15\\packages"
+}

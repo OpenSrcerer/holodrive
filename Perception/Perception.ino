@@ -68,8 +68,8 @@ class Controller
         // the rules of holodrive
         PWM[0] = StickAxes[0] - StickAxes[1] - StickAxes[2];    // Front Right
         PWM[1] = StickAxes[0] + StickAxes[1] + StickAxes[2];   // Front Left
-        PWM[2] = -StickAxes[0] - StickAxes[1] - StickAxes[2];   // Rear Right
-        PWM[3] = -StickAxes[0] + StickAxes[1] + StickAxes[2];    // Rear Left
+        PWM[2] = -StickAxes[0] - StickAxes[1] + StickAxes[2];   // Rear Right
+        PWM[3] = -StickAxes[0] + StickAxes[1] - StickAxes[2];    // Rear Left
     }
 
     double mapPWM(double &bonks, int &sensitivity, int polarization)
